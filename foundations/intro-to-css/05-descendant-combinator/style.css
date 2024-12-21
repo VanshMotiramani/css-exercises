@@ -1,0 +1,12 @@
+div p {
+    background-color: #fbfb00;
+    color: rgb(255, 0, 4);
+    font-size: 24px;
+    text-align: center;
+}
+/* 
+Other Descendant combinators {
+    .container .text
+    div .text
+    .container p
+} */
