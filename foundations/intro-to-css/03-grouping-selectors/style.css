@@ -1,13 +1,13 @@
-.button {
+.classic, .fancy {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
-.button.first {
+.classic {
     background-color: rgb(0,0,0);
     color: hsl(60, 0%, 100%);
 }
 
-.button.second {
+.fancy {
     background-color: #fbfa00;
 }
